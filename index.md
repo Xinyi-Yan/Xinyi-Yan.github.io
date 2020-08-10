@@ -3,15 +3,15 @@ title: Welcome
 
 feature_text: |
   ## Xinyi Yan
-  My personal website for sharing my ecology projects, instructional designs, and artwork.
+  Here I share my ecology projects, instructional designs, and artwork.
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+excerpt: 
 layout: page
 ---
 
-Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it.
+I am a EEB graduate student at University of Texas at Austin, co-advised by Dr. [Farrior](https://sites.cns.utexas.edu/cfarrior) and Dr. [Wolf](https://ameliawolf.weebly.com/). I am interested in plant microbe interactions, and study how they influence plant diversity and ecosystem functions.
+Here, you can read about my ecology projects 🌲, instructional design materials 📝, and artworks 🎨.  
 
-{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Email Me 📧" link="mailto:yan.xinyi@outlook.com" %} 
+{% include button.html text="Github" icon="github" link="https://github.com/Xinyi-Yan" color="#0366d6" %} {% include button.html text="Google Scholar 🎓" link="https://scholar.google.com/citations?user=tDrFRxgAAAAJ&hl=en&oi=ao" color="#0d94e7" %} {% include button.html text="Email Me 📧" link="mailto:yan.xinyi@outlook.com" %} 
 
-
-🌲 
+This website design is adapted from [Alembic](https://alembic.darn.es/) and is currently under construction. 
