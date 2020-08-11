@@ -4,7 +4,7 @@ title: Welcome
 feature_text: |
   ## Xinyi Yan
   Here I share my ecology projects, instructional designs, and artwork.
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: assets/images/grass2.jpg
 excerpt: 
 layout: page
 ---
