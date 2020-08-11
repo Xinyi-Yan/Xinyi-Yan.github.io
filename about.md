@@ -6,7 +6,7 @@ feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt: "About me"
 aside: true
 ---
-
+handout-url: assets/Xinyi_Yan_cv-Aug20.pdf
 <html lang="en" style="width:100%; height:100%;">
 <head>
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
