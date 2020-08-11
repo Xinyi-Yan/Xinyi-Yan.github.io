@@ -3,7 +3,7 @@ title: Welcome
 
 feature_text: |
   ## Xinyi Yan
-  Here I share my ecology projects, instructional designs, and artwork.
+  Ecology, Education, and Art.
 feature_image: assets/images/grass2.jpg
 excerpt: 
 layout: page
