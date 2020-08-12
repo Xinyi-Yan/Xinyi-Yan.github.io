@@ -1,8 +1,8 @@
 ---
-title: About me
+title: 
 feature_text: |
   My background, academic and personal intersts
-feature_image:  "assets/images/mountain1.jpg"
+feature_image:  assets/images/mountain1.jpg
 excerpt: 
 aside: true
 ---
