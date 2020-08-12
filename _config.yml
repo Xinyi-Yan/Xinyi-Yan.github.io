@@ -57,7 +57,7 @@ sass:
   style: compressed # Style compression
 permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
 excerpt_separator: <!-- more --> # Marks end of excerpt in posts
-timezone: Europe/London # Timezone for blog posts and alike
+timezone: America/Chicage # Timezone for blog posts and alike
 
 # 5. Collections
 collections:
@@ -80,7 +80,7 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "XinyiYan" # Site name or title, also used in jekyll-seo-tag
+title: "Xinyi Yan" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Xinyi Yan's personal website" # Site description and default description, also used in jekyll-seo-tag
 url: "https://xinyi-yan.github.io/" # Site url, also used in jekyll-seo-tag
@@ -108,7 +108,7 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
-- title: About
+- title: About&Contact
   url: /about/
 - title: Ecology
   url: /ecology/
@@ -118,8 +118,7 @@ navigation_header:
   url: /Art/
 - title: Search
   url: /search/
-- title: Contact
-  url: /contact/
+
 
 navigation_footer:
 - title: Adapted from Alembic
