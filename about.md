@@ -2,7 +2,7 @@
 title: About me
 feature_text: |
   Me, my education background, academic and personal intersts
-feature_image: assets/images/mountain1.jpg
+feature_image: assets/images/sky2.jpg
 excerpt: "About me"
 aside: true
 ---
