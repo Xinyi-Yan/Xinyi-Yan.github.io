@@ -41,9 +41,9 @@ paginate_path: ecology/page:num # jekyll-paginate > blog page
 #jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 #twitter:
 #  username: DavidDarnes # jekyll-seo-tag > Owners twitter username
-author: XinyiYan # jekyll-seo-tag > default author
+author: Xinyi Yan # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
-  name: David Darnes # jekyll-seo-tag > real name
+  name: Xinyi Yan # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
     - https://github.com/Xinyi-Yan
     - https://scholar.google.com/citations?hl=en&user=tDrFRxgAAAAJ
@@ -70,6 +70,15 @@ collections:
       ...and how their interactions shape diversity.
     feature_image: "/assets/images/grass1.jpg"
 
+  teaching_posts:
+    title: Instructional Design # Needed for Siteleaf
+    output: true
+    description: "Coming soon" # The post list page content
+    feature_text: |
+      Science, research, and more. <br>
+      Tutorials, Apps, and more.
+    feature_image: "/assets/images/aqua2.jpg"
+    
 # 6. Jekyll collections settings
 defaults:
   -
@@ -131,6 +140,6 @@ navigation_footer:
   #GitHub: https://github.com/Xinyi-Yan
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
-  Twitter: "#0d94e7"
-  facebook: "#3B5998"
+  #Twitter: "#0d94e7"
+  #facebook: "#3B5998"
   Email: true
