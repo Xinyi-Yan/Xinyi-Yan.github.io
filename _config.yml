@@ -37,7 +37,7 @@ plugins:
 
 # 3. Gem settings
 paginate: 2 # jekyll-paginate > items per page
-paginate_path: blog/page:num # jekyll-paginate > blog page
+paginate_path: ecology/page:num # jekyll-paginate > blog page
 #jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 #twitter:
 #  username: DavidDarnes # jekyll-seo-tag > Owners twitter username
@@ -62,12 +62,13 @@ timezone: America/Chicage # Timezone for blog posts and alike
 # 5. Collections
 collections:
   posts:
-    title: Projects # Needed for Siteleaf
+    title: Ecology Projects # Needed for Siteleaf
     output: true
-    description: "Past and Current Projects" # The post list page content
+    description: "Coming soon" # The post list page content
     feature_text: |
-      Ecology Projects
-    feature_image: "https://picsum.photos/2560/600?image=866"
+      ## Plant and soil
+      ...and how their interactions shape diversity.
+    feature_image: "/assets/images/grass1.jpg"
 
 # 6. Jekyll collections settings
 defaults:
