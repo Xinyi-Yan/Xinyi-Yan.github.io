@@ -2,7 +2,7 @@
 title: 
 feature_text: |
   My background, academic and personal intersts
-feature_image: "https://xinyi-yan.github.io/assets/images/grass2.jpg"
+feature_image: "https://xinyi-yan.github.io/assets/images/mountain1.jpg"
 excerpt: 
 aside: true
 ---
