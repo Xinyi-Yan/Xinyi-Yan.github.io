@@ -1,5 +1,6 @@
 ---
 title: Contents coming soon...
+collection: posts
 categories:
 - General
 feature_image: /assets/images/grass1.jpg
