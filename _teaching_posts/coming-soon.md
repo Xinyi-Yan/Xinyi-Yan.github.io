@@ -2,7 +2,6 @@
 title: Contents coming soon...
 collection: teaching_posts
 categories:
-- General
 permalink: /teaching/coming-soon
 feature_image: "/assets/images/aqua2.jpg"
 ---
