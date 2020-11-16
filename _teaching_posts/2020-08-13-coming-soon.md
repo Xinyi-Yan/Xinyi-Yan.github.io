@@ -1,5 +1,6 @@
 ---
 title: Contents coming soon...
+collection: teaching_posts
 categories:
 - General
 feature_image: "/assets/images/aqua2.jpg"
