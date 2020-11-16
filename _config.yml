@@ -75,7 +75,7 @@ collections:
     output: true
     description: "Coming soon" # The post list page content
     feature_text: |
-      ## Teaching and outreach
+      ## Teaching & Outreach
       on science, research, and more. <br>
     feature_image: "/assets/images/aqua2.jpg"
     
