@@ -64,6 +64,7 @@ collections:
   posts:
     title: Ecology Projects # Needed for Siteleaf
     output: true
+    permalink: /:collection/:path/
     description: "Coming soon" # The post list page content
     feature_text: |
       ## Plant and soil
@@ -73,6 +74,7 @@ collections:
   teaching_posts:
     title: Instructional Design # Needed for Siteleaf
     output: true
+    permalink: /:collection/:path/
     description: "Coming soon" # The post list page content
     feature_text: |
       ## Teaching & Outreach
@@ -118,8 +120,8 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
-- title: About&Contact
-  url: /about/
+- title: CV&Contact
+  url: /contact/
 - title: Ecology
   url: /ecology/
 - title: Teaching
