@@ -75,8 +75,8 @@ collections:
     output: true
     description: "Coming soon" # The post list page content
     feature_text: |
-      Science, research, and more. <br>
-      Tutorials, Apps, and more.
+      ## Teaching and outreach
+      on science, research, and more. <br>
     feature_image: "/assets/images/aqua2.jpg"
     
 # 6. Jekyll collections settings
