@@ -65,7 +65,7 @@ collections:
     title: Ecology Projects # Needed for Siteleaf
     output: true
     permalink: /:collection/:path/
-    description: "Coming soon" # The post list page content
+    description: "Brief descriptions on my research projects since 2018: theory about PSF-mediated fitness differences, a greenhouse experiment quantifying microbially mediated fitness differences, and an on-going meta-analysis" # The post list page content
     feature_text: |
       ## Plant and soil
       ...and how their interactions shape diversity.
