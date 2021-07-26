@@ -1,34 +1,34 @@
 ---
 title: Projects
 feature_text: |
-  A demo of Markdown and HTML includes
-feature_image: :"/assets/images/grass1.jpg"
+ How plant-microbe interactions shape diversity
+feature_image: :/assets/images/grass1.jpg
 
 excerpt: "How plant-microbe interactions shape diversity"
 aside: true
 ---
 
-Interactiona between plants and soil microbes are common in nature, and have a pivotal role in mediating plant succession, invasion, and species coexistence. 
+Interactions between plants and soil microbes are common in nature, and have a pivotal role in mediating plant succession, invasion, and species coexistence. To study their influence on plant coexistence, I used diverse approaches utilizing theorys, modeling, experiments, and statistics.
 
 
 ## 2020-present
-### A meta-analysis on microbially mediated fitness difference
-We conduct a meta-analysis on the microbially mediated fitness differences and compare its magnitude with the frequency dependence, to infer coexistence outcomes.
+#### A meta-analysis
+We conduct a meta-analysis on the microbially mediated fitness differences and compare their magnitude with the frequency dependent effect generate by microbes, to obtain a more comprehensive picture of microbial influence on plant coexistence outcomes.
 
-This is a current project collaborate with Jonathan Levine and GauraWe are presenting at [ESA 2021] (https://www.esa.org/longbeach/). Check out my talk at COS 20: Species Interactions 2.
+This is a current project collaborate with Jonathan Levine and Gaura. We are presenting at [ESA 2021](https://www.esa.org/longbeach/). Check out my talk at COS 20: Species Interactions 2.
 
-### plant-microbe interaction as a way to produce evolutionarily stable coexistebce
+#### evolutionarily stable coexistebce?
 Using adaptive dynamics, we explore if plant-microbe interactions, e.g. Janzen-Connell effects, can allow plant species to have evolutionarily stable coexistence.
 
 This is in-progress project with my advisor Caroline Farrior. Stay tuned.
 
 ## 2019-2020
-### A greenhouse experiment
+#### A greenhouse experiment
+We conducted a Plant-soil feedback (PSF) greenhouse experiment on 6 California grassland species (15 pairs), and found out soil microbes frequently generate stronger fitness differences than stabilizing effect. This indicates that microbes often drive species exclusion in the classic PSF framework where other competitive abilities are assumed to be equal.
 
+Read [our paper](https://www.journals.uchicago.edu/doi/abs/10.1086/711662?journalCode=an) for more details.
 
 ## 2018-2019
-### A theory paper on microbially mediated fitness difference
+#### A theory paper on microbially mediated fitness difference
+Applying the modern coexistence theory to the classic PSF framework, we showed that PSF can generate not only _frequency dependence_ that stabilize or destabilize plant coexistence, but also frequency independent _fitness difference_. Correctly infering the effect of PSF on coexistence, the fitnesss difference must be compared with the (de)stabilizing effect.
 
-
-
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Image with caption" alt="Image with just alt text" width="300" height="800" %}
