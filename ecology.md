@@ -2,7 +2,7 @@
 title: Ecology Projects
 feature_text: |
  How plant-microbe interactions shape diversity
-feature_image: :"https://xinyi-yan.github.io/assets/images/grass1.jpg"
+feature_image: :"https://xinyi-yan.github.io/assets/images/grass2.jpg"
 
 excerpt: "How plant-microbe interactions shape diversity"
 aside: false
@@ -26,7 +26,7 @@ This is in-progress project with my advisor Caroline Farrior. Stay tuned.
 #### A greenhouse experiment
 We conducted a Plant-soil feedback (PSF) greenhouse experiment on 6 California grassland species (15 pairs), and found out soil microbes frequently generate stronger fitness differences than stabilizing effect. This indicates that microbes often drive species exclusion in the classic PSF framework where other competitive abilities are assumed to be equal.
 
-{% include figure.html image="https://xinyi-yan.github.io/assets/images/exp.jpg" caption="During the phase 2 of the greenhouse experiment, focal species grow on soils conditioned previously by each species" width="500" height="400" %}
+{% include figure.html image="https://xinyi-yan.github.io/assets/images/exp.JPG" caption="During the phase 2 of the greenhouse experiment, focal species grow on soils conditioned previously by each species" width="500" height="400" %}
 
 Read [our paper](https://www.journals.uchicago.edu/doi/abs/10.1086/711662?journalCode=an) for more details.
 
