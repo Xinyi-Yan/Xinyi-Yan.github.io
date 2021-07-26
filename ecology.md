@@ -2,7 +2,7 @@
 title: Ecology Projects
 feature_text: |
  How plant-microbe interactions shape diversity
-feature_image: "https://xinyi-yan.github.io/assets/images/grass2.jpg"
+feature_image: "https://xinyi-yan.github.io/assets/images/grass1.jpg"
 
 excerpt: "How plant-microbe interactions shape diversity"
 aside: false
