@@ -2,7 +2,7 @@
 title: Teaching & Outreach
 feature_text: |
  Sicence & Research education
-feature_image: "https://xinyi-yan.github.io/assets/images/aqua.jpg"
+feature_image: "https://xinyi-yan.github.io/assets/images/aqua2.jpg"
 
 excerpt: "Sicence & Research education"
 aside: false
