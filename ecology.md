@@ -5,7 +5,7 @@ feature_text: |
 feature_image: "https://xinyi-yan.github.io/assets/images/grass1.jpg"
 
 excerpt: "How plant-microbe interactions shape diversity"
-aside: TRUE
+aside: FALSE
 ---
 
 Interactions between plants and soil microbes are common in nature, and have a pivotal role in mediating plant succession, invasion, and species coexistence. To study their influence on plant coexistence, I used diverse approaches utilizing theorys, modeling, experiments, and statistics.
