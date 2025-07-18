@@ -29,7 +29,7 @@ Classic plant-soil-feedback often model microbial growth as a function of host p
 In collaboration with Jonathan Levine and Gaurav Kandlikar, I conducted a meta-analysis on the microbially mediated fitness differences and compare their magnitude with the frequency dependent effect generate by microbes, to obtain a more comprehensive picture of microbial influence on plant coexistence outcomes.
 
 Check out [our paper in PNAS](https://doi.org/10.1073/pnas.2122088119).
-{% include figure.html image="https://xinyi-yan.github.io/assets/images/psf-metaanalysis-fig4.JPG" caption="Figure 4 from the paper, where we simulated probability of coexistence based on quantified microbially-mediated stabilization (niche separation) and fitness differences, and their respective uncertainties" width="400" height="300" %}
+{% include figure.html image="https://xinyi-yan.github.io/assets/images/psf-metaanalysis-fig4.jpg" caption="Figure 4 from the paper, where we simulated probability of coexistence based on quantified microbially-mediated stabilization (niche separation) and fitness differences, and their respective uncertainties" width="400" height="300" %}
 
 ### A greenhouse experiment (2019-2020)<a name="psf-experiment"></a>
 We conducted a Plant-soil feedback (PSF) greenhouse experiment on 6 California grassland species (15 pairs), and found out soil microbes frequently generate stronger fitness differences than stabilizing effect. This indicates that microbes often drive species exclusion in the classic PSF framework where other competitive abilities are assumed to be equal.
