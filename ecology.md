@@ -5,7 +5,7 @@ feature_text: |
 feature_image: "https://xinyi-yan.github.io/assets/images/grass1.jpg"
 
 excerpt: "**How plant-microbe interactions shape diversity**"
-layout: categories
+layout: page
 aside: FALSE
 ---
 
