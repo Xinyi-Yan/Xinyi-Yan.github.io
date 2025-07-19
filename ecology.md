@@ -53,12 +53,12 @@ Using adaptive dynamics, we explore if plant-microbe interactions, e.g. Janzen-C
 This is in-progress project with my advisor Caroline Farrior. Stay tuned.
 
 ## Consequences of plant diversity loss on soil microbiome and plant productivity (2022-2025) <a name="bef"></a> 
-{% include figure.html image="https://xinyi-yan.github.io/assets/images/BFL-Jan-April-22.png" caption="L: The biodiversity experiment officially started in January 2022, led by Sarah and Damla. R: The experiment three months later, with the plants growing and insect-nets on." width="400" height="300" %}
+{% include figure.html image="https://xinyi-yan.github.io/assets/images/BFL-Jan-April-22.png" caption="L: The biodiversity experiment officially started in January 2022, led by Sarah and Damla. R: The experiment three months later, with the plants growing and insect-nets on." width="550" height="400" %}
 ### Drought and plant diversity loss on soil fungal communities (2022-2025) <a name="bef-exp-seq"></a>
 Utilizing a biodiversity-ecosystem-functioning field experiment, I sequenced the soil fungal communities under treatments of drought, plant species richness, and plant phylogenetic diversity. The results indicate that biodiversity loss and drought can reduce AMF richness and alter fungal composition, and through these changes in soil microbiome, may further decrease plant productivity. 
 
 This project is in collaboration with Elizabeth Bowman, my labmates Sarah Ortiz and Damla Cinoglu, and my advisors Amelia Wolf and Caroline Farrior. The manuscript will be available BioRxiv by the end of summer.
-{% include figure.html image="https://xinyi-yan.github.io/assets/images/BFL.jpg" caption="I was collecting soil using a tweezer and a Whirpak from the experiment in late May/early June, for DNA extraction and sequencing." width="400" height="300" %}
+{% include figure.html image="https://xinyi-yan.github.io/assets/images/BFL.jpg" caption="I was collecting soil using a tweezer and a Whirpak from the experiment in late May/early June, for DNA extraction and sequencing." width="300" height="400" %}
 
 ### Drought and plant diversity loss on plant productivity through soil (2024-2025) <a name="bef-gh-exp"></a>
 To more directly test the effect of AMF and whole soil microbiome on mediating the plant diversity-productivity relationship, we collected soil from the low and high plant richness treatments (2 vs 12 species) in [our field experiment](#bef-exp-seq"). These soil underwent 3 microbial community treatments: whole microbime (intact), AMF-dominant (by sieving AMF spores), and no microbiome (by autoclaving), and used to inoculate two types of plant communities (2 vs 12 species). 
