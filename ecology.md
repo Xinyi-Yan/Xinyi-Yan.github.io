@@ -7,6 +7,7 @@ feature_image: "https://xinyi-yan.github.io/assets/images/grass1.jpg"
 excerpt: "**How plant-microbe interactions shape diversity**"
 layout: page
 aside: FALSE
+aside_toc: TRUE     
 ---
 
 Interactions between plants and soil microbes are common in nature, and have a pivotal role in mediating plant succession, invasion, and species coexistence. I use diverse approaches utilizing theories, modeling, experiments, soil sequencing, and statistics, to study their influence on plant communities under the following themes.
@@ -67,14 +68,3 @@ From our preliminary analysis, the whole microbiome may be a stronger contributo
 
 This project could not have been done without the great contribution of my undergraduate mentee, Jason Cruz Martinez. 
 {% include figure.html image="https://xinyi-yan.github.io/assets/images/Jason-gh-exp.png" caption="Jason was watering the pots in the greenhouse." width="400" height="300" %}
-
-Table of Contents: 
-1. [Plant coexistence through the lens of plant-soil-microbe interactions](#psf)
-    1. [A revised plant-soil feedback model incorporating resource dynamics](#psf-model)
-    2. [A meta-analysis of microbial control on plant coexistence](#psf-metaanalysis)
-    3. [A greenhouse experiment](#psf-experiment)
-    4. [Theory on microbially mediated fitness difference](#psf-theory)
-2. [Evolutionary stable coexistence](#evo-coexistence)
-3. [Plant diversity loss on soil microbiome and plant productivity](#bef)
-    1. [Sequencing soil fungi under global changes](#bef-exp-seq)
-    2. [Greenhouse experiment on plant BEF via soil](#bef-gh-exp)  
