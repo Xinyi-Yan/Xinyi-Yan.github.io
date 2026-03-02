@@ -1,32 +1,33 @@
 ---
 title: Ecology Projects
 feature_text: |
- **How plant-microbe interactions shape diversity**
+ **How plant-microbe interactions shape plant communities**
 feature_image: "https://xinyi-yan.github.io/assets/images/grass1.jpg"
 
-excerpt: "**How plant-microbe interactions shape diversity**"
+excerpt: "**How plant-microbe interactions shape plant communities**"
 layout: page
 aside: TRUE
 aside_toc: ecology-toc.html     
 ---
 
-Interactions between plants and soil microbes are common in nature, and have a pivotal role in mediating plant succession, invasion, and species coexistence. I use diverse approaches utilizing theories, modeling, experiments, soil sequencing, and statistics, to study their influence on plant communities under the following themes.
+Interactions between plants and soil microbes are common in nature, and have a pivotal role in mediating plant succession, invasion, and species coexistence. I use diverse approaches utilizing theories, modeling, experiments, soil sequencing, and statistics, to study their influence on plant communities under two themes.
 
-The first theme is ["Can plant-soil-microbe interactions help explain how plant diversity is maintained?"](#psf). Back in my undergrad at UCLA, I worked with [Gaurav Kandlikar](https://gauravsk.gitlab.io/) to develop [theory on microbially mediated fitness differences](#psf-theory) in the Modern Coexistence Theory Framework, and later we measured the new metric in [a greenhouse experiment](#psf-experiment). 
+My first research theme focus on how plant-soil-microbe interactions mediate plant diversity maintenance. During my undergrad at UCLA, I worked with [Gaurav Kandlikar](https://gauravsk.gitlab.io/) to develop [theory](#psf-theory) on microbially mediated fitness differences in the Modern Coexistence Theory Framework, and later we measured the new metric in [a greenhouse experiment](#psf-experiment). 
 
-During my graduate school at UT Austin, I continued with [a meta-analysis](#psf-metaanalysis) to quantify across systems microbially-mediated niche and fitness differences, and eventually microbial control on plant coeixstence. I am also developing [a revised plant-soil feedback model](#psf-model) that incorporates resource dynamics, where the additional mechanism could bring us a step closer to the observed diversity in nature.
+During my graduate school at UT Austin, I continued with [a meta-analysis](#psf-metaanalysis) to quantify across systems microbially-mediated niche and fitness differences, and eventually microbial control on plant coeixstence. I am also developing a revised plant-soil feedback  [model](#psf-model) that incorporates resource dynamics, where the additional mechanism could bring us a step closer to the observed diversity in nature.
 
-I am interested in not only how plant diversity is *maintained* ecologically, but how plant diversity could be *generated* through evolution. Therefore, the second theme of my research is ["Can plant-soil-decomposer co-evolution help generate evolutionary stable coexistence](#evo-coexistence) of plants with different strategies?". 
-
-Lastly, I am also interested in finding out ["What are the consequences of plant diversity loss, through plant-soil-microbe interactions"](#bef). Utilizing a field biodiversity experiment(#bef-exp-seq) and a follow-up greenhouse experiment (#bef-gh-exp) focusing on the effect of plant diversity loss and drought on soil microbiome, and on plant ecosystem functioning via soil microbiome.
+My second research theme focus on the consequences of plant diversity loss, through plant-soil-microbe interactions. Utilizing a field biodiversity experiment(#bef-exp-seq) and a follow-up greenhouse experiment (#bef-gh-exp), I study the effect of plant diversity loss and drought on soil microbiome, and on plant productivity via soil microbes.
 
 ### Can plant-soil-microbe interactions help explain how plant diversity is maintained? <a name="psf"></a>
 #### A revised plant-soil feedback model incorporating resource dynamics (2024-2025) <a name="psf-model"></a>
-I will be presenting this ongoing work with my advisor Caroline Farrior at 2025 ESA, COS Population Dynamics: Modeling 1 (8/13 1:30 - 3 pm). Stay tuned, but here's a glimpse:
-  
+
 Classic plant-soil feedback (PSF) models often present microbial growth as a function of host plant species abundance (species-specific cultivation), potentially leading to unbounded and independent growth of each microbial population. Moreover, current empirical results based on these models often reveal soil microbes as an impeding, rather than promoting force for pairwise plant coexistence, and the chance for multispecies (>2 plants) coexistence is even slimmer. Both are at odds with the commonality of soil microbes and plant diversity in nature. 
 
-Here we present a revised model with a simple carrying capacity of plants and an explicit incorporation of the process where soil microbial populations compete for plant-derived resources (e.g. root exudates, litter, root space for colonization). Analysis of a model with two plants and two microbial populations showed that the competitive outcome of plants and microbes depends on their initial conditions, leading to alternative stable states of competitive exclusion and coexistence of all, whereas classic models without explicit microbial competition for plant-derived resources only exhibit either coexistence or exclusion. In general, this basin of attraction for coexistence seems to be more sensitive to plant dynamics than to microbial dynamics. Together, our model showed the inclusion of a simple physiological mechanism in plant-microbe interactions can generate more complex competition outcomes than predicted by previous PSF models, offering a chance to reconcile theory with the context dependence observed in empirical data. This mechanism may also provide the missing link to understand how PSF can potentially maintain multispecies coexistence.   
+Here we present a revised model with a simple carrying capacity of plants and an explicit incorporation of the process where soil microbial populations compete for plant-derived resources (e.g. root exudates, litter, root space for colonization). Analysis of a model with two plants and two microbial populations showed that the competitive outcome of plants and microbes depends on their initial conditions, leading to alternative stable states of competitive exclusion and coexistence of all, whereas classic models without explicit microbial competition for plant-derived resources only exhibit either coexistence or exclusion. In general, this basin of attraction for coexistence seems to be more sensitive to plant dynamics than to microbial dynamics. 
+
+{% include figure.html image="https://xinyi-yan.github.io/assets/images/alternative-stable-states.jpg" caption="An example of alternative stateble states of coexistence and competitive exclusion in our model" width="600" height="400" %}
+
+Together, our model showed the inclusion of a simple physiological mechanism in plant-microbe interactions can generate more complex competition outcomes than predicted by previous PSF models, offering a chance to reconcile theory with the context dependence observed in empirical data. This mechanism may also provide the missing link to understand how PSF can potentially maintain multispecies coexistence.   
 
 #### A meta-analysis of microbial control on plant coeixstence (2021-2022) <a name="psf-metaanalysis"></a>
 In collaboration with Jonathan Levine and Gaurav Kandlikar, I conducted a meta-analysis on the microbially mediated fitness differences and compared their magnitude with the frequency dependent effect generate by microbes, to obtain a more comprehensive picture of microbial influence on plant coexistence outcomes.
@@ -48,10 +49,6 @@ Applying the modern coexistence theory to the classic PSF framework, we showed t
 
 Read [our paper in Ecology Letters](https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.13280) for more details.
 
-### Evolutionarily stable coexistence? (2025) <a name="evo-coexistence"></a>
-Using adaptive dynamics, we explore if plant-microbe interactions, e.g. Janzen-Connell effects, can allow plant species to have evolutionarily stable coexistence.
-
-This is an in-progress project with my advisor Caroline Farrior. Stay tuned.
 
 ### Consequences of plant diversity loss on soil microbiome and plant productivity (2022-2025) <a name="bef"></a> 
 {% include figure.html image="https://xinyi-yan.github.io/assets/images/BFL-Jan-April-22.png" caption="L: The biodiversity experiment officially started in January 2022, led by Sarah and Damla. R: The experiment three months later, with the plants growing and insect-nets in place." width="550" height="400" %}
